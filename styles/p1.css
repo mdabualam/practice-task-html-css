@@ -1,0 +1,16 @@
+#p1{
+    border: 10px solid pink;
+    background-color: beige;
+    color: tomato;
+}
+#p2{
+    margin: 20px;
+    padding: 10px;
+    border: 10px solid black;
+    text-align: center;
+}
+#p3{
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+    border: 10px solid orchid;
+}
